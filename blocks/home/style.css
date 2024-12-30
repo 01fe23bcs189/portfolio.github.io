@@ -1,4 +1,4 @@
-* {
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -128,7 +128,7 @@
     text-decoration: none;
     color: FB5235;
     padding: 1rem 1rem;
-    align-content: center; 
+    align-content: center;
     transition: background-color 0.3s ease;
   }
   
@@ -197,5 +197,5 @@
 .topic p {
   margin-bottom: 1rem; 
   font-size: 1.1rem; 
-  line-height: 1.6; 
+  line-height: 1.6; 
 }
